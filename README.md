@@ -1,4 +1,4 @@
-# stress_detector
+# Stress Detector
 
 Assessed the potential of electro dermal activity (EDA) sensors in accurately capturing and classifying user distress levels.
 - Formulated experimental paradigms ('Easy', 'Hard', and 'Pause') based on consultations with psychotherapists to simulate varying levels of stress.
